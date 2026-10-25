@@ -1,7 +1,7 @@
 {
   "dealership": "Pacific Mazda",
-  "generated_at": "2026-10-25T15:33:55",
-  "vehicle_count": 294,
+  "generated_at": "2026-10-25T15:54:30",
+  "vehicle_count": 296,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1951,6 +1951,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2010 Toyota RAV4",
+      "vin": "2T3RK4DV5AW023494",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/used/5391de705131.html",
+      "year": 2010,
+      "make": "Toyota",
+      "model": "RAV4",
+      "condition": "used",
+      "price": 13995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2011 Honda CR-Z",
       "vin": "JHMZF1C69BS800457",
       "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/used/dda59ba42a49.html",
@@ -1959,17 +1970,6 @@
       "model": "CR-Z",
       "condition": "used",
       "price": 9995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2012 Volkswagen GOLF GTI",
-      "vin": "WVWHV7AJ6CW332126",
-      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/used/dbb4cc02c5e0.html",
-      "year": 2012,
-      "make": "Volkswagen",
-      "model": "GOLF GTI",
-      "condition": "used",
-      "price": 12995.0,
       "price_currency": "CAD"
     },
     {
@@ -2028,6 +2028,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2016 Mazda M3 GS-SKY 2.0L 6AT",
+      "vin": "3MZBM1V7XGM245434",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/used/bd9d1a510a30.html",
+      "year": 2016,
+      "make": "Mazda",
+      "model": "M3 GS-SKY 2.0L 6AT",
+      "condition": "used",
+      "price": 17995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2018 Mazda CX-5",
       "vin": "JM3KFBDM8J0407492",
       "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/used/5d99258b47aa.html",
@@ -2050,17 +2061,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Mazda MAZDA3 SPORT",
-      "vin": "JM1BPBLL5M1340590",
-      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/used/9f76e9a57b0a.html",
-      "year": 2021,
-      "make": "Mazda",
-      "model": "Mazda3",
-      "condition": "used",
-      "price": 22995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Mazda CX-5",
       "vin": "JM3KFBCM3M1489311",
       "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/used/8818b3c286ad.html",
@@ -2080,6 +2080,17 @@
       "model": "CX-5",
       "condition": "used",
       "price": 26995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Mazda CX-9",
+      "vin": "JM3TCBCY9N0614951",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/used/2a9f5ba5237e.html",
+      "year": 2022,
+      "make": "Mazda",
+      "model": "CX-9",
+      "condition": "used",
+      "price": 34995.0,
       "price_currency": "CAD"
     },
     {
@@ -2116,6 +2127,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2023 Mazda MAZDA3 SPORT",
+      "vin": "JM1BPBMY9P1606868",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/used/c98990f1d2f4.html",
+      "year": 2023,
+      "make": "Mazda",
+      "model": "Mazda3",
+      "condition": "used",
+      "price": 29995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2024 Jeep WRANGLER",
       "vin": "1C4PJXAN6RW157959",
       "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/used/c989aa55b908.html",
@@ -2124,17 +2146,6 @@
       "model": "WRANGLER",
       "condition": "used",
       "price": 29998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Mazda CX-50",
-      "vin": "7MMVABDM1RN198907",
-      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/used/269203d96a2c.html",
-      "year": 2024,
-      "make": "Mazda",
-      "model": "CX-50",
-      "condition": "used",
-      "price": 39995.0,
       "price_currency": "CAD"
     },
     {
@@ -2179,6 +2190,17 @@
       "model": "CX-30",
       "condition": "used",
       "price": 30995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Mazda CX-70 PHEV",
+      "vin": "JM3KJCHA0S1127663",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/used/22b31bf153b0.html",
+      "year": 2025,
+      "make": "Mazda",
+      "model": "CX-70 PHEV",
+      "condition": "used",
+      "price": 45995.0,
       "price_currency": "CAD"
     },
     {
