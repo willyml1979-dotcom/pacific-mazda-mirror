@@ -1,7 +1,7 @@
 {
   "dealership": "Pacific Mazda",
-  "generated_at": "2026-10-26T01:04:53",
-  "vehicle_count": 298,
+  "generated_at": "2026-10-26T01:24:32",
+  "vehicle_count": 299,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -2217,6 +2217,17 @@
       "model": "CX-70 PHEV",
       "condition": "used",
       "price": 45995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Mazda CX-5",
+      "vin": "JM3KFBDM5S0573471",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/used/7ff1bfd6c38c.html",
+      "year": 2025,
+      "make": "Mazda",
+      "model": "CX-5",
+      "condition": "used",
+      "price": 43645.0,
       "price_currency": "CAD"
     },
     {
