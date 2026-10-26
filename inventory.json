@@ -1,7 +1,7 @@
 {
   "dealership": "Pacific Mazda",
-  "generated_at": "2026-10-25T15:54:30",
-  "vehicle_count": 296,
+  "generated_at": "2026-10-26T01:04:53",
+  "vehicle_count": 298,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -259,6 +259,14 @@
       "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/05811ad3c22f.html",
       "condition": "new",
       "price": 44284.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-5 GX",
+      "vin": "JM3KMAHAXT0114969",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/7bab926cfbb5.html",
+      "condition": "new",
+      "price": 38034.0,
       "price_currency": "CAD"
     },
     {
@@ -566,6 +574,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Mazda2026 CX-90 Plug-In Hybrid GT",
+      "vin": "JM3KKDHA7T1398983",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/e28de9d7853d.html",
+      "condition": "new",
+      "price": 62145.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Mazda2026 CX-70 Plug-In Hybrid GT",
       "vin": "JM3KJDHA6T1210716",
       "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/ec5235421442.html",
@@ -595,14 +611,6 @@
       "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/43fde1cbfa85.html",
       "condition": "new",
       "price": 58845.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-5 GS",
-      "vin": "JM3KMBHA4T0156575",
-      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/6807df063416.html",
-      "condition": "new",
-      "price": 41084.0,
       "price_currency": "CAD"
     },
     {
@@ -683,6 +691,14 @@
       "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/f40d72ee61df.html",
       "condition": "new",
       "price": 44184.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-5 GS",
+      "vin": "JM3KMBHA6T0181557",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/4c8b2275e85b.html",
+      "condition": "new",
+      "price": 41084.0,
       "price_currency": "CAD"
     },
     {
@@ -1126,6 +1142,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Mazda2026 CX-5 GX",
+      "vin": "JM3KMAHA6T0206466",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/4e72f3e54e5d.html",
+      "condition": "new",
+      "price": 38214.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Mazda2026 CX-90 Plug-In Hybrid GT",
       "vin": "JM3KKDHA3T1413740",
       "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/661cd58d23d3.html",
@@ -1438,14 +1462,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Mazda2026 CX-90 Plug-In Hybrid GT",
-      "vin": "JM3KKDHA4T1418493",
-      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/4ebe219e9011.html",
-      "condition": "new",
-      "price": 62645.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Mazda2026 CX-5 GT",
       "vin": "JM3KMDHA8T0222296",
       "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/21f978b00ed7.html",
@@ -1582,14 +1598,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Mazda2026 CX-5 GX",
-      "vin": "JM3KMAHA1T0224115",
-      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/33259fe986ae.html",
-      "condition": "new",
-      "price": 38214.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Mazda2026 CX-5 GS",
       "vin": "JM3KMBHA4T0224079",
       "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/d70a3b31500a.html",
@@ -1611,6 +1619,14 @@
       "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/531c917cee00.html",
       "condition": "new",
       "price": 48464.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-5 GS",
+      "vin": "JM3KMBHA5T0224415",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/7d6a0e18652f.html",
+      "condition": "new",
+      "price": 41264.0,
       "price_currency": "CAD"
     },
     {
