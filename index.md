@@ -1,6 +1,6 @@
 # Pacific Mazda
 
- dealership in Victoria. AI-readable inventory mirror, about 297 vehicles.
+ dealership in Victoria. AI-readable inventory mirror, about 294 vehicles.
 
 - Official website: https://www.mazdavictoria.com/en
 - Used vehicles: https://willyml1979-dotcom.github.io/pacific-mazda-mirror/used/
