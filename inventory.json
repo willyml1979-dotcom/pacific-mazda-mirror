@@ -1,6 +1,6 @@
 {
   "dealership": "Pacific Mazda",
-  "generated_at": "2026-10-26T09:53:41",
+  "generated_at": "2026-11-17T12:10:26",
   "vehicle_count": 297,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -27,14 +27,6 @@
       "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/b9eab8de80e6.html",
       "condition": "new",
       "price": 62545.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-70 Mild Hybrid GT-P",
-      "vin": "JM3KJDHC9T1204720",
-      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/c97c45c7d445.html",
-      "condition": "new",
-      "price": 59145.0,
       "price_currency": "CAD"
     },
     {
@@ -171,14 +163,6 @@
       "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/b1bbf2ec45a0.html",
       "condition": "new",
       "price": 68495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-5 GX",
-      "vin": "JM3KMAHAXT0120349",
-      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/441d07e9877d.html",
-      "condition": "new",
-      "price": 38034.0,
       "price_currency": "CAD"
     },
     {
@@ -430,14 +414,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Mazda2026 CX-30 GS",
-      "vin": "3MVDMBCL3TM208901",
-      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/123d01e34a86.html",
-      "condition": "new",
-      "price": 34736.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Mazda2026 CX-5 GT",
       "vin": "JM3KMCHA4T0150572",
       "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/3ab9684d7c30.html",
@@ -467,14 +443,6 @@
       "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/d298d0443fed.html",
       "condition": "new",
       "price": 56495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-5 GT",
-      "vin": "JM3KMCHA4T0152578",
-      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/13b491aefc1b.html",
-      "condition": "new",
-      "price": 43784.0,
       "price_currency": "CAD"
     },
     {
@@ -678,14 +646,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Mazda2026 CX-5 GS",
-      "vin": "JM3KMBHA3T0185856",
-      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/532cfe57fea1.html",
-      "condition": "new",
-      "price": 40784.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Mazda2026 CX-5 GT",
       "vin": "JM3KMCHA2T0182193",
       "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/f40d72ee61df.html",
@@ -742,14 +702,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Mazda2026 CX-5 GX",
-      "vin": "JM3KMAHA7T0163045",
-      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/0ddf7426a845.html",
-      "condition": "new",
-      "price": 37634.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Mazda2026 CX-5 GT",
       "vin": "JM3KMCHA9T0165827",
       "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/78f6bf461c73.html",
@@ -763,14 +715,6 @@
       "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/f9db841ebbc7.html",
       "condition": "new",
       "price": 55995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-90 Plug-In Hybrid GT",
-      "vin": "JM3KKDHA0T1400413",
-      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/3fb24c24c7a0.html",
-      "condition": "new",
-      "price": 62645.0,
       "price_currency": "CAD"
     },
     {
@@ -795,14 +739,6 @@
       "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/63acf28f5729.html",
       "condition": "new",
       "price": 48584.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-5 GS",
-      "vin": "JM3KMBHA4T0183324",
-      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/2ea3aa8d2270.html",
-      "condition": "new",
-      "price": 41184.0,
       "price_currency": "CAD"
     },
     {
@@ -870,6 +806,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Mazda2026 CX-90 Plug-In Hybrid GT",
+      "vin": "JM3KKDHA5T1401041",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/b80ebb05d189.html",
+      "condition": "new",
+      "price": 62545.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Mazda2026 CX-5 GT",
       "vin": "JM3KMCHA7T0185493",
       "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/97128f8831ff.html",
@@ -927,14 +871,6 @@
     },
     {
       "name": "Mazda2026 CX-90 Plug-In Hybrid GT",
-      "vin": "JM3KKDHA3T1399547",
-      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/6dd6c9f307e5.html",
-      "condition": "new",
-      "price": 62645.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-90 Plug-In Hybrid GT",
       "vin": "JM3KKDHA6T1400822",
       "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/1d7ba2ab61f8.html",
       "condition": "new",
@@ -982,27 +918,11 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Mazda2026 CX-90 Mild Hybrid GT-P",
-      "vin": "JM3KKDHC4T1402313",
-      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/d6106dc47951.html",
-      "condition": "new",
-      "price": 60345.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Mazda2026 CX-5 GX",
       "vin": "JM3KMAHA6T0170830",
       "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/1f9e9a6b44ca.html",
       "condition": "new",
       "price": 38034.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-90 Plug-In Hybrid GT",
-      "vin": "JM3KKDHA8T1399866",
-      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/b4fa6c78c64d.html",
-      "condition": "new",
-      "price": 62645.0,
       "price_currency": "CAD"
     },
     {
@@ -1043,22 +963,6 @@
       "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/d7d45ef28cd3.html",
       "condition": "new",
       "price": 38134.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-90 Plug-In Hybrid GT",
-      "vin": "JM3KKDHA5T1410189",
-      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/1a1a3aa3870c.html",
-      "condition": "new",
-      "price": 62545.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-5 GT",
-      "vin": "JM3KMCHA0T0197629",
-      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/40af3c6a4e2e.html",
-      "condition": "new",
-      "price": 45964.0,
       "price_currency": "CAD"
     },
     {
@@ -1118,11 +1022,27 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Mazda2026 CX-30 GS",
+      "vin": "3MVDMBCL0TM227194",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/1a8a72aa6549.html",
+      "condition": "new",
+      "price": 34736.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Mazda2026 CX-5 GT",
       "vin": "JM3KMCHA6T0205720",
       "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/5c85835e4583.html",
       "condition": "new",
       "price": 45964.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-5 GX",
+      "vin": "JM3KMAHA6T0206466",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/4e72f3e54e5d.html",
+      "condition": "new",
+      "price": 38214.0,
       "price_currency": "CAD"
     },
     {
@@ -1334,14 +1254,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Mazda2026 CX-30 GT",
-      "vin": "3MVDMBDL6TM221558",
-      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/bf64a51ef772.html",
-      "condition": "new",
-      "price": 40986.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Mazda2026 CX-30 GS",
       "vin": "3MVDMBCL9TM227940",
       "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/b7de12b7f499.html",
@@ -1411,14 +1323,6 @@
       "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/7c2e32f50154.html",
       "condition": "new",
       "price": 40936.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-30 GX",
-      "vin": "3MVDMBBL8TM238185",
-      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/120236d7ed5f.html",
-      "condition": "new",
-      "price": 31536.0,
       "price_currency": "CAD"
     },
     {
@@ -1534,22 +1438,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Mazda2026 CX-30 GS",
-      "vin": "3MVDMBCL1TM238561",
-      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/96a086a690f3.html",
-      "condition": "new",
-      "price": 34936.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-30 GT Kuro",
-      "vin": "3MVDMBAY0TM238050",
-      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/23b67e2894d7.html",
-      "condition": "new",
-      "price": 43586.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Mazda2026 CX-5 GS",
       "vin": "JM3KMBHA1T0223228",
       "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/728b2cff6562.html",
@@ -1577,6 +1465,14 @@
       "name": "Mazda2026 CX-5 GX",
       "vin": "JM3KMAHA6T0222795",
       "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/d92a98a88bd4.html",
+      "condition": "new",
+      "price": 38214.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-5 GX",
+      "vin": "JM3KMAHA1T0224115",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/33259fe986ae.html",
       "condition": "new",
       "price": 38214.0,
       "price_currency": "CAD"
@@ -1611,14 +1507,6 @@
       "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/7d6a0e18652f.html",
       "condition": "new",
       "price": 41264.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-5 GT",
-      "vin": "JM3KMDHA8T0232567",
-      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/40e063f65aac.html",
-      "condition": "new",
-      "price": 48464.0,
       "price_currency": "CAD"
     },
     {
@@ -1790,11 +1678,11 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Mazda2026 CX-30 GT Kuro",
-      "vin": "3MVDMBAY1TM239059",
-      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/6905d4ad7b9e.html",
+      "name": "Mazda2026 CX-5 GX",
+      "vin": "JM3KMAHA8T0235516",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/1a467673ed0a.html",
       "condition": "new",
-      "price": 43886.0,
+      "price": 38214.0,
       "price_currency": "CAD"
     },
     {
@@ -1814,14 +1702,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Mazda2026 CX-30 GX",
-      "vin": "3MVDMBBL3TM239678",
-      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/f1379ac12182.html",
-      "condition": "new",
-      "price": 31536.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Mazda2026 CX-5 GT",
       "vin": "JM3KMCHA2T0238889",
       "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/684cb7d34a59.html",
@@ -1838,6 +1718,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Mazda2026 CX-30 GT",
+      "vin": "3MVDMBDL0TM241871",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/b02b53d92fee.html",
+      "condition": "new",
+      "price": 40736.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Mazda2026 CX-5 GS",
       "vin": "JM3KMBHA4T0240878",
       "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/f03c8c987fad.html",
@@ -1851,14 +1739,6 @@
       "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/9b3867a2599f.html",
       "condition": "new",
       "price": 36936.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-5 GT",
-      "vin": "JM3KMDHAXT0241691",
-      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/123f9a853922.html",
-      "condition": "new",
-      "price": 49214.0,
       "price_currency": "CAD"
     },
     {
@@ -1915,6 +1795,174 @@
       "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/f970f901798a.html",
       "condition": "new",
       "price": 49794.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2027 CX-5 GT",
+      "vin": "JM3KMCHA7V0247607",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/037a1f3b7616.html",
+      "condition": "new",
+      "price": 47164.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2027 CX-5 GT",
+      "vin": "JM3KMCHA6V0246352",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/5ec266f9f3fc.html",
+      "condition": "new",
+      "price": 45464.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-30 GS Kuro",
+      "vin": "3MVDMBCL9TM249582",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/6f37e146ef13.html",
+      "condition": "new",
+      "price": 36936.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2027 CX-5 GT",
+      "vin": "JM3KMDHA2V0245852",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/53cc6abc351c.html",
+      "condition": "new",
+      "price": 49914.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-30 GT",
+      "vin": "3MVDMBDL8TM248129",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/66dce3bb0100.html",
+      "condition": "new",
+      "price": 40986.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-30 GX",
+      "vin": "3MVDMBBL8TM249395",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/d855f8208abb.html",
+      "condition": "new",
+      "price": 31836.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-30 GX",
+      "vin": "3MVDMBBL4TM249992",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/090ecd158b9f.html",
+      "condition": "new",
+      "price": 31536.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-30 GT",
+      "vin": "3MVDMBDL9TM249435",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/3cd0da938693.html",
+      "condition": "new",
+      "price": 40736.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-30 GT",
+      "vin": "3MVDMBDL2TM249860",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/0ae6195e1184.html",
+      "condition": "new",
+      "price": 40436.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-30 GS Kuro",
+      "vin": "3MVDMBCL4TM249960",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/dd762d8dda1e.html",
+      "condition": "new",
+      "price": 36636.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-30 GX",
+      "vin": "3MVDMBBL1TM250033",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/3de0652627c5.html",
+      "condition": "new",
+      "price": 31936.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-30 GT Kuro",
+      "vin": "3MVDMBAYXTM249041",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/9afb0060075f.html",
+      "condition": "new",
+      "price": 43886.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2027 CX-5 GX",
+      "vin": "JM3KMAHA1V0254461",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/39846048a114.html",
+      "condition": "new",
+      "price": 39564.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2027 CX-5 GS",
+      "vin": "JM3KMBHA6V0252467",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/9802ea43ceff.html",
+      "condition": "new",
+      "price": 42664.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2027 CX-5 GX",
+      "vin": "JM3KMAHAXV0257097",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/646bf093a140.html",
+      "condition": "new",
+      "price": 39064.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2027 CX-5 GS",
+      "vin": "JM3KMBHA0V0252982",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/e47f9b23527e.html",
+      "condition": "new",
+      "price": 42464.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2027 CX-5 GT",
+      "vin": "JM3KMCHA6V0255813",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/d6fb2f6b97b3.html",
+      "condition": "new",
+      "price": 45164.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2027 CX-5 GS",
+      "vin": "JM3KMBHA0V0256630",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/0dc87f3b7fb6.html",
+      "condition": "new",
+      "price": 42164.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2027 CX-5 GT",
+      "vin": "JM3KMDHA0V0262424",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/7826ec362f1c.html",
+      "condition": "new",
+      "price": 50064.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2027 CX-5 GT",
+      "vin": "JM3KMDHA8V0261571",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/f3d1a6fb5b4e.html",
+      "condition": "new",
+      "price": 49964.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2027 CX-5 GS",
+      "vin": "JM3KMBHA3V0253141",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/998d587faf04.html",
+      "condition": "new",
+      "price": 42914.0,
       "price_currency": "CAD"
     },
     {
@@ -2226,17 +2274,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mazda3 GS",
-      "vin": "JM1BPACL7T1880998",
-      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/262265559648.html",
-      "year": 2026,
-      "make": "Mazda3",
-      "model": "GS",
-      "condition": "new",
-      "price": 30351.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Mazda3 GX",
       "vin": "3MZBPABL5TM511445",
       "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/c5d07f2d06c3.html",
@@ -2267,17 +2304,6 @@
       "model": "Sport GS",
       "condition": "new",
       "price": 35296.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda3 GS",
-      "vin": "3MZBPACL9TM514122",
-      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/bae90b2ac7c0.html",
-      "year": 2026,
-      "make": "Mazda3",
-      "model": "GS",
-      "condition": "new",
-      "price": 30451.0,
       "price_currency": "CAD"
     },
     {
@@ -2344,28 +2370,6 @@
       "model": "Sport GT",
       "condition": "new",
       "price": 37296.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda3 GX",
-      "vin": "3MZBPABL3TM516210",
-      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/c5032b2aebe2.html",
-      "year": 2026,
-      "make": "Mazda3",
-      "model": "GX",
-      "condition": "new",
-      "price": 27351.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda3 Sport GT",
-      "vin": "JM1BPAML5T1901569",
-      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/5fd886ed218a.html",
-      "year": 2026,
-      "make": "Mazda3",
-      "model": "Sport GT",
-      "condition": "new",
-      "price": 37196.0,
       "price_currency": "CAD"
     },
     {
@@ -2446,17 +2450,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mazda3 Sport GT",
-      "vin": "JM1BPAML2T1900198",
-      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/5049c7d6daad.html",
-      "year": 2026,
-      "make": "Mazda3",
-      "model": "Sport GT",
-      "condition": "new",
-      "price": 37396.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Mazda3 Sport GS",
       "vin": "JM1BPALL5T1905297",
       "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/9b88973de5ce.html",
@@ -2531,17 +2524,6 @@
       "model": "Sport GT Turbo",
       "condition": "new",
       "price": 41546.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda3 Sport GX",
-      "vin": "JM1BPAKL1T1910286",
-      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/new/cf6fbc76523c.html",
-      "year": 2026,
-      "make": "Mazda3",
-      "model": "Sport GX",
-      "condition": "new",
-      "price": 28096.0,
       "price_currency": "CAD"
     },
     {
