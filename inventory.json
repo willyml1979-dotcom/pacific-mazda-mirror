@@ -1,6 +1,6 @@
 {
   "dealership": "Pacific Mazda",
-  "generated_at": "2026-11-18T02:44:03",
+  "generated_at": "2026-11-18T02:59:29",
   "vehicle_count": 297,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -2039,17 +2039,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2009 Toyota YARIS",
-      "vin": "JTDJT923195247423",
-      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/used/7d353efe2834.html",
-      "year": 2009,
-      "make": "Toyota",
-      "model": "YARIS",
-      "condition": "used",
-      "price": 5995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2011 Mazda MAZDA3",
       "vin": "JM1BL1M53B1402684",
       "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/used/86a6fd90a945.html",
@@ -2058,6 +2047,17 @@
       "model": "MAZDA3",
       "condition": "used",
       "price": 13995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2014 Mazda CX-5",
+      "vin": "JM3KE4DY3E0327329",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/used/da99f4a34201.html",
+      "year": 2014,
+      "make": "Mazda",
+      "model": "CX-5",
+      "condition": "used",
+      "price": 10995.0,
       "price_currency": "CAD"
     },
     {
@@ -2112,7 +2112,7 @@
       "make": "Ford",
       "model": "ESCAPE",
       "condition": "used",
-      "price": 13995.0,
+      "price": 12995.0,
       "price_currency": "CAD"
     },
     {
@@ -2160,6 +2160,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2019 Nissan KICKS",
+      "vin": "3N1CP5CU3KL486221",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/used/f69e198c7ac5.html",
+      "year": 2019,
+      "make": "Nissan",
+      "model": "KICKS",
+      "condition": "used",
+      "price": 14995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2020 Chevrolet SPARK",
       "vin": "KL8CD6SA0LC461737",
       "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/used/36940730595e.html",
@@ -2189,7 +2200,7 @@
       "make": "Hyundai",
       "model": "SANTA FE",
       "condition": "used",
-      "price": 26995.0,
+      "price": 25995.0,
       "price_currency": "CAD"
     },
     {
@@ -2215,17 +2226,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Mazda CX-5",
-      "vin": "JM3KFBDM5P0145858",
-      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/used/8210cebccd08.html",
-      "year": 2023,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "used",
-      "price": 43100.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Jeep WRANGLER",
       "vin": "1C4PJXAN6RW157959",
       "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/used/c989aa55b908.html",
@@ -2237,14 +2237,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Mazda MAZDA3 SPORT",
-      "vin": "JM1BPBMY5R1653463",
-      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/used/5ff2955214c1.html",
+      "name": "2024 Mazda CX-90 MHEV",
+      "vin": "JM3KKCHD6R1113641",
+      "url": "https://willyml1979-dotcom.github.io/pacific-mazda-mirror/used/3e9a1f080bdc.html",
       "year": 2024,
       "make": "Mazda",
-      "model": "Mazda3",
+      "model": "CX-90 MHEV",
       "condition": "used",
-      "price": 31995.0,
+      "price": 35995.0,
       "price_currency": "CAD"
     },
     {
